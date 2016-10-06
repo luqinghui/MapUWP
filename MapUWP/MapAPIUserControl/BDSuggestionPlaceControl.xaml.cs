@@ -1,4 +1,4 @@
-﻿using LUCWQ.MapAPI;
+﻿using MapTool.MapAPI;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -17,7 +17,7 @@ using Windows.UI.Xaml.Navigation;
 
 // The User Control item template is documented at http://go.microsoft.com/fwlink/?LinkId=234236
 
-namespace LUCWQ.MapAPIUserControl
+namespace MapTool.MapAPIUserControl
 {
     public sealed partial class BDSuggestionPlaceControl : UserControl
     {
